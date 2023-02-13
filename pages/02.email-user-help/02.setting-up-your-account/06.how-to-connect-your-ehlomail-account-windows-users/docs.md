@@ -57,13 +57,16 @@ _**Note**: If you've turned on two-step verification for your connected account,
 5. A new dialogue box will appear displaying your previous email profile or blank if this is your first email profile.
 6. Click on **New**
 ![](4.jpg)
-7. You now need to complete the auto-configuration dialogue box.
-8. Type in your **Full Name**, your **email address** and then your password twice.
-9. Select **Next**
-![](5.JPG)
-10. Outlook will now query the **EhloMail** server and verify your details and configure your mail profile.
-11. Once the process is completed you will see 3 green ticks. You can complete your configuration by clicking on the **finish** button
-![](6.JPG)
+7. Select "Manual setup or additional server types" and click Next.
+![](OutlookDesktopClient1.png)
+8. Select "POP or IMAP" and click Next.
+![](OutlookDesktopClient2.png)
+9. Fill out **Your Name**, **Email Address**, **User Name** and **Password** with your own information. The Server Information should match the screenshot below.
+![](OutlookDesktopClient3.png)
+10. Click on "More Settings", go to the Outgoing Server tab and check the first box: "My outgoing server (SMTP) requires authentication".
+![](OutlookDesktopClient4.png)
+11. Fill out the fields in the "Advanced" tab as follows:
+![](OutlookDesktopClient5.png)
 12. Select your new email address and then click on the button to set as default.
 13. If this is your first profile you can skip this step.
 ![](7.jpg)
