@@ -12,7 +12,7 @@ visible: true
 
 This is where you will be able to create, manage, edit and delete users for the domain you will be managing. An EhloMail administrator account is automatically created when you sign up for the service, with the email address and password you select during the ordering process. 
 
-To access the administration panel navigate to the [EhloMail admin login page](https://mail.ls:7071/admin/) and enter your administrator credentials (remember - the password is the one you selected when purchasing the service):
+To access the administration panel navigate to the [EhloMail admin login page](https://mail.ls:9071/admin/) and enter your administrator credentials (remember - the password is the one you selected when purchasing the service):
 
 ![](zimbra-admin-login.png)
 
